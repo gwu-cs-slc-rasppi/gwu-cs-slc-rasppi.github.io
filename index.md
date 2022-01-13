@@ -1,10 +1,11 @@
 ---
-layout: default 
+layout: home 
+title: About 
 ---
 
-# Instruction Team
+## Instruction Team
 
-## Jack Umina
+### Jack Umina
 
 - **Email:** jumina@gwu.edu
 - **Office Hours:**
@@ -12,20 +13,20 @@ layout: default
     - **Tuesdays:** 2:15-3:15pm
     - **Wednesdays:** 11am-12pm
 
-## Jon Terry 
+### Jon Terry 
 
 - **Email:** jterry82@gwu.edu
 - **Office Hours:**
 
-## Prof. Kartik Bulusu 
+### Prof. Kartik Bulusu 
 
 - **Email:** bulusu@gwu.edu
 
-## Prof. Gabe Parmer 
+### Prof. Gabe Parmer 
 
 - **Email:** gparmer@gwu.edu
 
-# Class Time & Room
+## Class Time & Room
 
 **Time:** Fridays 12-1pm
 

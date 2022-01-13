@@ -26,8 +26,6 @@ url: "https://github.com/gwu-cs-slc-rasppi.github.io" # the base hostname & prot
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

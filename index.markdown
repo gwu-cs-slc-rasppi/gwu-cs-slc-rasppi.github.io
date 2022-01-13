@@ -21,7 +21,7 @@ layout: default
 
 - **Email:** bulusu@gwu.edu
 
-## Gabe Parmer 
+## Prof. Gabe Parmer 
 
 - **Email:** gparmer@gwu.edu
 

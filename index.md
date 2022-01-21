@@ -17,7 +17,7 @@ title: About
 
 - **Email:** jterry82@gwu.edu
 - **Office Hours:**
-    - *Meet in Tompkins 409 or Zoom*   
+    - *Meet in SEH 1450 or Zoom*   
     - **Fridays:** 1:15-3:15pm
 
 ### Prof. Kartik Bulusu 

@@ -6,7 +6,7 @@ title: Schedule
 | Week | Date | Topic | Slides | Details |
 | ---- | ---- | ----- | ------ | ------- |
 |  1 | 1/14 | Intro | [Week 1 slides](files/cs3907IOTpi-week1-intro.pdf) | Syllabus, Expectations, Raspberry Pi Intro, ... |
-|  2 | 1/21 | Sense HAT |   | Intro to Sense HAT, Assignment #1 |
+|  2 | 1/21 | Sense HAT | [Week 2 slides](files/week2-slides.pdf) | Intro to Sense HAT, Assignment #1 |
 |  3 | 1/28 | TBD |    | Assignment #2 |
 |  4 |  2/4 | TBD |    | Assignment #3 |
 |  5 | 2/11 | TBD |    | Assignment #4 |

@@ -24,8 +24,3 @@ title: Helpful Docs & Links
 ### Python Documentation
 
 - <a href="https://docs.python.org/3/"> The official Python documentation </a>
-
-### Office Hours Check-In
-
-- <a href="https://web.penjiapp.com/kiosk/b98e6b"> Office Hours sign-in link </a>
-![Office Hours Sign-In QR Code](files/office-hours-qr-code.png)

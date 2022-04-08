@@ -19,4 +19,4 @@ title: Schedule
 | 12 |  4/1 | Project Workshop | | | 
 | 13 |  4/8 | Project Workshop | | | 
 | 14 | 4/15 | Project Workshop | | |
-| 15 | 4/22 | Final Project Presentation & Demos | | |
+| 15 | 4/22 | Final Project Presentation & Demos | | Class to be held in Tompkins 409 |
